@@ -39,7 +39,7 @@ td.Tabla-b-sica {
 p.Final-del-Articulo_references {
 	color:#000000;
 	font-family:"Sitka (OTF) Banner", sans-serif;
-	font-size:11px;
+	font-size:12.8px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -82,7 +82,7 @@ p.P-rrafo-b-sico {
 p.Paginas-internas-Art_TEXTO-GENERAL {
 	color:#000000;
 	font-family:"Sitka (OTF) Banner", sans-serif;
-	font-size:12px;
+	font-size:13.5px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -97,7 +97,7 @@ p.Paginas-internas-Art_TEXTO-GENERAL {
 	text-align:justify;
 	text-align-last:left;
 	text-decoration:none;
-	text-indent:20px;
+	text-indent:4px;
 	text-transform:none;
 	widows:2;
 }
@@ -124,26 +124,26 @@ p.Paginas-internas-Art_para-sangrado {
 	widows:2;
 }
 p.Paginas-internas-Art_sub-1-centro {
-	-epub-hyphens:none;
-	color:#343434;
-	font-family:Lato, sans-serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:bold;
-	line-height:1.167;
-	margin-bottom:3px;
-	margin-left:0;
-	margin-right:0;
-	margin-top:6px;
-	orphans:1;
-	page-break-after:auto;
-	page-break-before:auto;
-	text-align:center;
-	text-decoration:none;
-	text-indent:0;
-	text-transform:none;
-	widows:1;
+	-epub-hyphens: none;
+	color: #343434;
+	font-family: Lato, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 1.167;
+	margin-bottom: 3px;
+	margin-left: 5px;
+	margin-right: 0;
+	margin-top: 6px;
+	orphans: 1;
+	page-break-after: auto;
+	page-break-before: auto;
+	text-align: left;
+	text-decoration: none;
+	text-indent: 0;
+	text-transform: none;
+	widows: 1;
 }
 p.Resumen-Art_TEXTOS-AUTORES {
 	color:#000000;
@@ -213,7 +213,7 @@ p.Resumen-Art_autor {
 p.Resumen-Art_encabezado-art {
 	color:#706f6f;
 	font-family:Nunito, sans-serif;
-	font-size:7px;
+	font-size:14px;
 	font-style:italic;
 	font-variant:normal;
 	font-weight:normal;
@@ -225,7 +225,7 @@ p.Resumen-Art_encabezado-art {
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
-	text-align:right;
+	text-align:left;
 	text-decoration:none;
 	text-indent:0;
 	text-transform:none;
@@ -233,9 +233,9 @@ p.Resumen-Art_encabezado-art {
 }
 p.Resumen-Art_para-resumen {
 	-epub-hyphens:none;
-	color:#000000;
+	color:#343434;
 	font-family:"Sitka (OTF) Banner", sans-serif;
-	font-size:10px;
+	font-size:13px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -278,7 +278,7 @@ p.Resumen-Art_recibido {
 p.Resumen-Art_sub-resumen {
 	color:#000000;
 	font-family:Lato, sans-serif;
-	font-size:10px;
+	font-size:16px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -398,7 +398,7 @@ p.Tablas_Titulo-de-tabla {
 	page-break-after:auto;
 	page-break-before:auto;
 	text-align:justify;
-	text-align-last:left;
+	text-align-last:center;
 	text-decoration:none;
 	text-indent:20px;
 	text-transform:none;
@@ -611,7 +611,7 @@ span.CharOverride-6 {
 span.CharOverride-7 {
 	color:#010102;
 	font-family:"Lato Light", sans-serif;
-	font-size:6px;
+	font-size:18px;
 	font-style:italic;
 	font-weight:300;
 }
@@ -622,12 +622,13 @@ span.CharOverride-8 {
 	font-weight:normal;
 }
 span.CharOverride-9 {
-	font-size:10px;
+	font-size:14px;
 }
 span.CharOverride-10 {
 	font-family:"Sitka (OTF) Banner", sans-serif;
 	font-style:normal;
 	font-weight:normal;
+	font-size: 13px;
 }
 span.CharOverride-11 {
 	font-family:Lato, sans-serif;
@@ -656,7 +657,7 @@ span.CharOverride-15 {
 }
 span.CharOverride-16 {
 	font-family:"Sitka (OTF) Banner", sans-serif;
-	font-size:11px;
+	font-size:14px;
 	font-style:normal;
 	font-weight:normal;
 }
@@ -743,5 +744,40 @@ div._idGenObjectStyleOverride-1 {
 	border-width:0px;
 }
 div._idGenObjectLayout-1 {
+	text-align:left;
+}
+
+.postit{
+	position: relative;
+	left: 50%;
+	top: -70px;
+}
+img.img1 {
+	height:20.00%;
+	min-width:1%;
+	width:3.00%;
+	display: inline;
+	text-align:left;
+	border-width:0px;
+      vertical-align: middle; /* Esto alinea la imagen verticalmente con el texto */
+      margin-right: 10px; /* Puedes ajustar este valor según sea necesario */
+}
+.Izquierda1{
+	
+	/*border-color:#878787;*/
+	/*border-width:1px;*/
+	border-radius: 0px;
+	top: 80%;
+	margin-left: auto;
+    margin-right: auto;
+	background-color:  #ec9c2c ;
+	position: relative;
+	max-width: 600px;
+	height: 280px;
+	/*border-width: 2px 4px 6px 8px;*/
+	border-width:4px;
+	border-style:solid;
+	color: #d8d8d8 !important;
+	
 	text-align:center;
 }

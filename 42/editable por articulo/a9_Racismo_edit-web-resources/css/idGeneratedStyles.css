@@ -34,7 +34,7 @@ p.Final-del-Articulo_notas {
 p.Final-del-Articulo_references {
 	color:#000000;
 	font-family:"Sitka (OTF) Banner", sans-serif;
-	font-size:11px;
+	font-size:12.8px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -56,13 +56,13 @@ p.Final-del-Articulo_references {
 p.P-rrafo-b-sico {
 	color:#000000;
 	font-family:"Minion Pro", serif;
-	font-size:12px;
+	font-size:9.8px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.2;
 	margin-bottom:0;
-	margin-left:0;
+	margin-left:11px;
 	margin-right:0;
 	margin-top:0;
 	orphans:1;
@@ -77,7 +77,7 @@ p.P-rrafo-b-sico {
 p.Paginas-internas-Art_TEXTO-GENERAL {
 	color:#000000;
 	font-family:"Sitka (OTF) Banner", sans-serif;
-	font-size:12px;
+	font-size:13.5px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -92,7 +92,7 @@ p.Paginas-internas-Art_TEXTO-GENERAL {
 	text-align:justify;
 	text-align-last:left;
 	text-decoration:none;
-	text-indent:20px;
+	text-indent:4px;
 	text-transform:none;
 	widows:2;
 }
@@ -104,10 +104,10 @@ p.Paginas-internas-Art_para-sangrado {
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.182;
-	margin-bottom:3px;
+	margin-bottom:8px;
 	margin-left:20px;
-	margin-right:0;
-	margin-top:0;
+	margin-right:20px;
+	margin-top:8px;
 	orphans:2;
 	page-break-after:auto;
 	page-break-before:auto;
@@ -119,38 +119,38 @@ p.Paginas-internas-Art_para-sangrado {
 	widows:2;
 }
 p.Paginas-internas-Art_sub-1-centro {
-	-epub-hyphens:none;
-	color:#343434;
-	font-family:Lato, sans-serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:bold;
-	line-height:1.167;
-	margin-bottom:3px;
-	margin-left:0;
-	margin-right:0;
-	margin-top:6px;
-	orphans:1;
-	page-break-after:auto;
-	page-break-before:auto;
-	text-align:center;
-	text-decoration:none;
-	text-indent:0;
-	text-transform:none;
-	widows:1;
+	-epub-hyphens: none;
+	color: #343434;
+	font-family: Lato, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 1.167;
+	margin-bottom: 3px;
+	margin-left: 5px;
+	margin-right: 0;
+	margin-top: 6px;
+	orphans: 1;
+	page-break-after: auto;
+	page-break-before: auto;
+	text-align: left;
+	text-decoration: none;
+	text-indent: 0;
+	text-transform: none;
+	widows: 1;
 }
 p.Resumen-Art_TEXTOS-AUTORES {
 	color:#000000;
 	font-family:"Sitka (OTF) Banner Bold", sans-serif;
-	font-size:8px;
+	font-size:10.5px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.15;
 	margin-bottom:9px;
-	margin-left:0;
-	margin-right:0;
+	margin-left:10px;
+	margin-right:10px;
 	margin-top:0;
 	orphans:1;
 	page-break-after:auto;
@@ -187,7 +187,7 @@ p.Resumen-Art_T-tulos-PRINCIPAL {
 p.Resumen-Art_autor {
 	color:#838383;
 	font-family:Lato, sans-serif;
-	font-size:9px;
+	font-size:10.8px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -208,7 +208,7 @@ p.Resumen-Art_autor {
 p.Resumen-Art_encabezado-art {
 	color:#706f6f;
 	font-family:Nunito, sans-serif;
-	font-size:7px;
+	font-size:14px;
 	font-style:italic;
 	font-variant:normal;
 	font-weight:normal;
@@ -220,7 +220,7 @@ p.Resumen-Art_encabezado-art {
 	orphans:1;
 	page-break-after:auto;
 	page-break-before:auto;
-	text-align:right;
+	text-align:left;
 	text-decoration:none;
 	text-indent:0;
 	text-transform:none;
@@ -228,9 +228,9 @@ p.Resumen-Art_encabezado-art {
 }
 p.Resumen-Art_para-resumen {
 	-epub-hyphens:none;
-	color:#000000;
+	color:#343434;
 	font-family:"Sitka (OTF) Banner", sans-serif;
-	font-size:10px;
+	font-size:13px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -252,14 +252,14 @@ p.Resumen-Art_recibido {
 	-epub-hyphens:none;
 	color:#ffffff;
 	font-family:"Sitka (OTF) Banner", sans-serif;
-	font-size:6px;
+	font-size:8.8px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
 	line-height:1.167;
 	margin-bottom:0;
-	margin-left:0;
-	margin-right:0;
+	margin-left:13px;
+	margin-right:13px;
 	margin-top:0;
 	orphans:1;
 	page-break-after:auto;
@@ -273,7 +273,7 @@ p.Resumen-Art_recibido {
 p.Resumen-Art_sub-resumen {
 	color:#000000;
 	font-family:Lato, sans-serif;
-	font-size:10px;
+	font-size:16px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -295,7 +295,7 @@ p.Resumen-Art_t-tulo-en-ingl-s {
 	-epub-hyphens:none;
 	color:#343434;
 	font-family:"Sitka (OTF) Display", sans-serif;
-	font-size:12px;
+	font-size:18px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -313,6 +313,31 @@ p.Resumen-Art_t-tulo-en-ingl-s {
 	text-transform:none;
 	widows:1;
 }
+
+
+p.Resumen-Art_t-tulo-en-ingl-s2 {
+	-epub-hyphens:none;
+	color:#343434;
+	font-family:"Sitka (OTF) Display", sans-serif;
+	font-size:14px;
+	font-style:normal;
+	font-variant:normal;
+	font-weight:normal;
+	line-height:1.167;
+	margin-bottom:0;
+	margin-left:0;
+	margin-right:0;
+	margin-top:0;
+	orphans:1;
+	page-break-after:auto;
+	page-break-before:auto;
+	text-align:right;
+	text-decoration:none;
+	text-indent:0;
+	text-transform:none;
+	widows:1;
+}
+
 span.Hyperlink {
 	color:#275b9b;
 	text-decoration:underline;
@@ -347,13 +372,14 @@ p.ParaOverride-5 {
 span.CharOverride-1 {
 	color:#010102;
 	font-family:"Lato Light", sans-serif;
-	font-size:6px;
+	font-size:18px;
 	font-style:italic;
 	font-weight:300;
 }
 span.CharOverride-2 {
 	color:#ffffff;
 	font-style:normal;
+
 	font-weight:normal;
 }
 span.CharOverride-3 {
@@ -385,7 +411,6 @@ span.CharOverride-7 {
 span.CharOverride-8 {
 	color:#ffffff;
 	font-family:"Nunito Light", sans-serif;
-	font-size:5px;
 	font-style:normal;
 	font-weight:300;
 }
@@ -394,6 +419,7 @@ span.CharOverride-9 {
 	font-family:Lato, sans-serif;
 	font-style:normal;
 	font-weight:normal;
+	font-size: 25px;
 }
 span.CharOverride-10 {
 	color:#e09d01;
@@ -473,6 +499,14 @@ img._idGenObjectAttribute-1 {
 	min-width:100%;
 	width:250.00%;
 }
+img._idGenObjectAttribute1 {
+	height:300.00%;
+	min-width:100%;
+	width:280.00%;
+	position: relative;
+	top: -320%;
+	left: 850%;
+}
 img._idGenObjectAttribute-2 {
 	height:10px;
 	width:10px;
@@ -481,5 +515,41 @@ div._idGenObjectStyleOverride-1 {
 	border-width:0px;
 }
 div._idGenObjectLayout-1 {
+	text-align:left;
+}
+
+
+.postit{
+	position: relative;
+	left: 50%;
+	top: -70px;
+}
+img.img1 {
+	height:20.00%;
+	min-width:1%;
+	width:3.00%;
+	display: inline;
+	text-align:left;
+	border-width:0px;
+      vertical-align: middle; /* Esto alinea la imagen verticalmente con el texto */
+      margin-right: 10px; /* Puedes ajustar este valor según sea necesario */
+}
+.Izquierda1{
+	
+	/*border-color:#878787;*/
+	/*border-width:1px;*/
+	border-radius: 0px;
+	top: 80%;
+	margin-left: auto;
+    margin-right: auto;
+	background-color:  #ec9c2c ;
+	position: relative;
+	max-width: 600px;
+	height: 200px;
+	/*border-width: 2px 4px 6px 8px;*/
+	border-width:4px;
+	border-style:solid;
+	color: #d8d8d8 !important;
+	
 	text-align:center;
 }

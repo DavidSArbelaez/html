@@ -12,7 +12,7 @@ div.Marco-de-texto-b-sico {
 p.Final-del-Articulo_references {
 	color:#000000;
 	font-family:"Sitka (OTF) Banner", sans-serif;
-	font-size:11px;
+	font-size:12.8px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -55,7 +55,7 @@ p.P-rrafo-b-sico {
 p.Paginas-internas-Art_TEXTO-GENERAL {
 	color:#000000;
 	font-family:"Sitka (OTF) Banner", sans-serif;
-	font-size:12px;
+	font-size:13.5px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -70,7 +70,7 @@ p.Paginas-internas-Art_TEXTO-GENERAL {
 	text-align:justify;
 	text-align-last:left;
 	text-decoration:none;
-	text-indent:20px;
+	text-indent:4px;
 	text-transform:none;
 	widows:2;
 }
@@ -97,26 +97,26 @@ p.Paginas-internas-Art_para-sangrado {
 	widows:2;
 }
 p.Paginas-internas-Art_sub-1-centro {
-	-epub-hyphens:none;
-	color:#343434;
-	font-family:Lato, sans-serif;
-	font-size:12px;
-	font-style:normal;
-	font-variant:normal;
-	font-weight:bold;
-	line-height:1.167;
-	margin-bottom:3px;
-	margin-left:0;
-	margin-right:0;
-	margin-top:6px;
-	orphans:1;
-	page-break-after:auto;
-	page-break-before:auto;
-	text-align:center;
-	text-decoration:none;
-	text-indent:0;
-	text-transform:none;
-	widows:1;
+	-epub-hyphens: none;
+	color: #343434;
+	font-family: Lato, sans-serif;
+	font-size: 20px;
+	font-style: normal;
+	font-variant: normal;
+	font-weight: bold;
+	line-height: 1.167;
+	margin-bottom: 3px;
+	margin-left: 5px;
+	margin-right: 0;
+	margin-top: 6px;
+	orphans: 1;
+	page-break-after: auto;
+	page-break-before: auto;
+	text-align: left;
+	text-decoration: none;
+	text-indent: 0;
+	text-transform: none;
+	widows: 1;
 }
 p.Resumen-Art_TEXTOS-AUTORES {
 	color:#000000;
@@ -251,7 +251,7 @@ p.Resumen-Art_recibido {
 p.Resumen-Art_sub-resumen {
 	color:#000000;
 	font-family:Lato, sans-serif;
-	font-size:10px;
+	font-size:16px;
 	font-style:normal;
 	font-variant:normal;
 	font-weight:normal;
@@ -432,9 +432,9 @@ span.CharOverride-17 {
 	width:18px;
 }
 img._idGenObjectAttribute-1 {
-	height:100.00%;
+	height:230.00%;
 	min-width:100%;
-	width:100.00%;
+	width:250.00%;
 }
 img._idGenObjectAttribute-2 {
 	height:10px;
@@ -444,5 +444,5 @@ div._idGenObjectStyleOverride-1 {
 	border-width:0px;
 }
 div._idGenObjectLayout-1 {
-	text-align:center;
+	text-align:left;
 }
